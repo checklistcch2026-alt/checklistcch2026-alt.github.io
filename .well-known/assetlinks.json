@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.cristalchile.checklist",
+        "sha256_cert_fingerprints": ["A3:D0:24:B0:0F:50:69:62:D3:C0:DB:49:BE:11:3F:6D:2C:20:B8:2C:A7:CC:63:24:DC:F5:60:DB:29:BA:D8:F7"]
+      }
+    }]
